@@ -4,6 +4,6 @@
   "apkUrl": "https://raw.githubusercontent.com/CaptinTV/CaptainTV-Updates/main/downloads/CaptainTV-v1.0.0.apk",
   "sizeMb": 24.5,
   "force": false,
-  "minVersion": "1.0.0",
+  "minVersion": "1.0.1",
   "notes": "• تحسينات في الأداء\n• إصلاح مشاكل التمرير والبحث"
 }
