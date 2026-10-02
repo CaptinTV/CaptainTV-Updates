@@ -1,0 +1,9 @@
+{
+  "versionName": "1.1.0",
+  "versionCode": 2,
+  "apkUrl": "https://CaptinTV.github.io/CaptainTV-Updates/downloads/Captain_TV-1.1.0.apk",
+  "sizeMb": 24.5,
+  "force": false,
+  "minVersion": "1.0.0",
+  "notes": "• تحسينات في الأداء\n• إصلاح مشاكل التمرير والبحث"
+}
